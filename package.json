@@ -1,0 +1,22 @@
+{
+  "name": "fusionpos-documentation",
+  "version": "1.0.0",
+  "description": "SpaFusionPos Documentation",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keks-peks/slate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keks-peks/slate/issues"
+  },
+  "homepage": "https://github.com/keks-peks/slate#readme"
+}
